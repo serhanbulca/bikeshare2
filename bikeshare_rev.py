@@ -7,6 +7,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'washington': 'washington.csv' }
 #refactoring
 #commit 2
+#commit 3
 def get_filters():
 
     print('Hello! Let\'s explore some US bikeshare data!')
