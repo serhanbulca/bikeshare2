@@ -5,7 +5,11 @@ import numpy as np
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
+
 # comment for making small change
+#refactoring
+#commit 2
+#commit 3
 def get_filters():
 
     print('Hello! Let\'s explore some US bikeshare data!')
